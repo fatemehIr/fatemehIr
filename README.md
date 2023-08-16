@@ -8,10 +8,10 @@
 <p align="left">Contact Me ☎️</p>
 <a href="https://www.linkedin.com/in/fatemeh-irani-35442520a/"><img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/icons8-linkedin.gif?raw=true"></a>
 <a href="https://t.me/FatemehIr/"><img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/icons8-telegram-app.gif?raw=true"></a>
-<h2 align="left">My progress📈</h2>
-<h3 align="left">🎯Responsive Web Design | 100%</h3> <img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/bar.png?raw=true">
-<h3 align="left">🎯JavaScript Algorithm and Data Structures | 100%</h3> <img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/bar.png?raw=true">
-<h3 align="left">🎯Front End Development Libraries |50%</h3> <img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/bar.png?raw=true" hieght="16px" width="250px">
+<h2 align="left">My progress 📈</h2>
+<h3 align="left">🎯 Responsive Web Design | 100%</h3> <img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/bar.png?raw=true">
+<h3 align="left">🎯 JavaScript Algorithm and Data Structures | 100%</h3> <img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/bar.png?raw=true">
+<h3 align="left">🎯 Front End Development Libraries |50%</h3> <img src="https://github.com/fatemehIr/fatemehIr/blob/main/image/bar.png?raw=true" hieght="16px" width="250px">
 <h2 align="left">Current work✍️</h2>
 <h4 align="left">⚡ Front End Development Libraries</h4>
 <h4 align="left">⚡ wordpress developer skills</h4>
