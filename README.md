@@ -17,30 +17,3 @@
 <h4 align="left">⚡ Front End Development Libraries</h4>
 <h4 align="left">⚡ WordPress developer</h4>
 <h4 align="left">⚡ UI/UX designer</h4>
-
-
-
-<!--from Universe.Earth import Human
-
-class fatemeh(Human):
-    full_name = "fatemeh Irani"
-    age = 21 ;)
-    education = "Computer Engineering"
-
-    programming_lang = ["javaScript"]
-    frameworks/library= [React.js", "Angular.js", Vue.js"]
-
-    Favorites = [
-        "Computer",
-        "programming", 
-        "book", 
-        "writing",
-        "Music",
-    ]
-    Learning = [
-        "Computer Engineering",
-        "design patterns",
-        "Front End Development"
-    ]
-    working_on = ["level up my skills", "junior"]
-    -->
