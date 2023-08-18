@@ -1,9 +1,12 @@
 # who am I? 
-## Software Engineer <be>
- <!--<img align="center" src="https://github.com/fatemehIr/fatemehIr/assets/141597432/47a26da7-7261-4e9f-b8b9-8eb860a6f303" alt="just for fun :D"> --> <spam> <br>
+<!--
+## Software Engineer <br>
+ <img align="center" src="https://github.com/fatemehIr/fatemehIr/assets/141597432/47a26da7-7261-4e9f-b8b9-8eb860a6f303" alt="just for fun :D"> <spam> <br>
  Last situation : Learning a new skill<br>
- based: Home <be>
+ based: Home <br>
  </spam>
+ -->
+ <img align="center" src="https://github.com/fatemehIr/fatemehIr/assets/141597432/47a26da7-7261-4e9f-b8b9-8eb860a6f303" alt="just for fun :D">
 <!--from Universe.Earth import Human
 
 class fatemeh(Human):
